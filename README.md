@@ -16,3 +16,5 @@ the function and run automatically when you commit through a GitHub action.
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+This algorithm is not done. I was not able to finish it in time
